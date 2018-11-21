@@ -1,4 +1,4 @@
-package com.lcw.beauty;
+package com.lcw.beauty.demo1;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
@@ -12,6 +12,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.GridLayout;
 import android.widget.ImageView;
+
+import com.lcw.beauty.R;
 
 /**
  * 改变色调原理演示

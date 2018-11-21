@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name=".demo2.MatrixActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -17,10 +17,10 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".BeautyActivityOne" />
-        <activity android:name=".BeautyActivityTwo" />
-        <activity android:name=".BeautyActivityThree" />
-        <activity android:name=".BeautyActivityFour" />
+        <activity android:name=".demo1.BeautyActivityOne" />
+        <activity android:name=".demo1.BeautyActivityTwo" />
+        <activity android:name=".demo1.BeautyActivityThree" />
+        <activity android:name=".demo1.BeautyActivityFour" />
     </application>
 
 </manifest>

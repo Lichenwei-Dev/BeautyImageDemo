@@ -8,28 +8,28 @@
     android:orientation="vertical">
 
     <Button
-        android:id="@+id/btn_Demo1"
+        android:id="@+id/btn_One"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="10dp"
         android:text="ColorMatrix效果演示" />
 
     <Button
-        android:id="@+id/btn_Demo2"
+        android:id="@+id/btn_Two"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="10dp"
         android:text="改变色调原理演示" />
 
     <Button
-        android:id="@+id/btn_Demo3"
+        android:id="@+id/btn_Three"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="10dp"
         android:text="改像素点RGBA效果演示" />
 
     <Button
-        android:id="@+id/btn_Demo4"
+        android:id="@+id/btn_Four"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="颜色滤镜效果演示" />

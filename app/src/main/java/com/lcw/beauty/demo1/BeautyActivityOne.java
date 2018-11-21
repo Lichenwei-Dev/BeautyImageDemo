@@ -1,4 +1,4 @@
-package com.lcw.beauty;
+package com.lcw.beauty.demo1;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
@@ -7,6 +7,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.AppCompatSeekBar;
 import android.widget.ImageView;
 import android.widget.SeekBar;
+
+import com.lcw.beauty.R;
 
 /**
  * ColorMatrix效果演示

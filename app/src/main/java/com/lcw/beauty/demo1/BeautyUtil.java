@@ -1,4 +1,4 @@
-package com.lcw.beauty;
+package com.lcw.beauty.demo1;
 
 import android.graphics.Bitmap;
 import android.graphics.Canvas;
